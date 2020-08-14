@@ -1,7 +1,7 @@
 # exercicio 01
 
 # Como funciona a internet?
-<div style="text-align: justify">
+
 
 ## O que é a Internet?
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para compreendermos como a Internet chega na sua casa vamos imaginar que ela é uma pequena rede conectada a outras redes (maiores) de computadores. Sendo assim, não há um dono da Internet, nem uma empresa que a controle, mas sim um grupo de várias redes interligadas. 
@@ -42,4 +42,4 @@ Este caminho passa por quatro passos principais, sempre identificados por um end
 Em uma ligação entre usuários de VoIP, cada usuário utilizando um computador equipado com software específico ou um aparelho telefônico especial se conecta ao provedor VoIP que intermedia a comunicação. Já em uma ligação entre um usuário de VoIP com um telefone convencional, celular ou fixo, o usuário VoIP se conecta ao provedor VoIP que efetua uma ligação para o telefone convencional desejado.
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Já no compartilhamento de arquivos P2P, os usuários compartilham arquivos de forma ponto à ponto - ou seja: cada usuário decide compartilhar alguns dos seus arquivos com uma determinada rede P2P (Kazaa, Emule, Ares, BitTorrent, etc). Com isso, estes arquivos ficam disponíveis para todos usuários que utilizam o software pertencente à rede de P2P.
-</div> 
+ 
